@@ -1,0 +1,16 @@
+{
+  "title": "Building a JSON database using Github and Go without any third party libraries",
+  "summary": "Tired of being shackled by third-party libraries? Unleash your inner nerd and craft a JSON database using GitHub and Go, all on your own! Experience the raw power of coding without the constraints of external tools.",
+  "category": ["Back-End Development"],
+  "tags": ["First Blog", "Go/Golang", "Back-End", "Github", "File Storage"],
+  "body": [
+    {
+      "content_type": "text",
+      "content": "This is an incomplete blog! but this blog's contents support markdown syntax.\nFor example:\n- Item 1\n- Item2\n\n_Italic text_."
+    },
+    {
+      "content_type": "code",
+      "content": "```bash\ngo mod init blog-service\n```"
+    }
+  ]
+}
