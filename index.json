@@ -1,6 +1,12 @@
 [
   {
-    "id": "building-a-blog-database-using-only-github-and-go.json",
+    "id": "building-a-blog-database-using-only-github-and-go",
+    "url": "/articles/building-a-blog-database-using-only-github-and-go.json",
+    "metadata": "Back-End Development. First Blog, Go/Golang, Back-End, Github, File Storage. Building a JSON database using Github and Go without any third party libraries. Tired of being shackled by third-party libraries? Unleash your inner nerd and craft a JSON database using GitHub and Go, all on your own! Experience the raw power of coding without the constraints of external tools."
+  },
+  {
+    "id": "setting-up-pyenv-and-installing-multiple-versions-of-python-on-macos",
+    "url": "/articles/setting-up-pyenv-and-installing-multiple-versions-of-python-on-macos.json",
     "metadata": "Back-End Development. First Blog, Go/Golang, Back-End, Github, File Storage. Building a JSON database using Github and Go without any third party libraries. Tired of being shackled by third-party libraries? Unleash your inner nerd and craft a JSON database using GitHub and Go, all on your own! Experience the raw power of coding without the constraints of external tools."
   }
 ]
