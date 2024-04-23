@@ -1,22 +1,22 @@
 [
   {
-    "id": "building-a-blog-database-using-only-github-and-go",
-    "url": "/articles/building-a-blog-database-using-only-github-and-go.json",
-    "title": "Building a personal blogging site using Github as the Database.",
-    "summary": "Building a personal blogging site using Github as the Database.",
+    "id": "building-a-personal-blogging-site-by-utilizing-github-as-cms",
+    "url": "/articles/building-a-personal-blogging-site-by-utilizing-github-as-cms/index.md",
+    "title": "Building a personal blogging site by utilizing Github as the CMS",
+    "summary": "Building a personal blogging site by utilizing Github as the CMS",
     "category": "Back End",
     "tags": ["Go/Golang", "Github", "Caching"],
-    "create_at": "",
-    "updated_at": ""
+    "create_at": "2024-04-23T02:26:55.204Z",
+    "updated_at": "2024-04-23T02:26:55.204Z"
   },
   {
-    "id": "setting-up-pyenv-and-installing-multiple-versions-of-python-on-macos",
-    "url": "/articles/setting-up-pyenv-and-installing-multiple-versions-of-python-on-macos.json",
-    "title": "",
-    "summary": "",
-    "category": "",
-    "tags": [],
-    "create_at": "",
-    "updated_at": ""
+    "id": "mock-article-on-tree-plantation",
+    "url": "/articles/mock-article-on-tree-plantation/index.md",
+    "title": "Mock article on tree plantation",
+    "summary": "Mock article on tree plantation",
+    "category": "Mock",
+    "tags": ["Mock", "Testing"],
+    "create_at": "2024-04-23T02:26:55.204Z",
+    "updated_at": "2024-04-23T02:26:55.204Z"
   }
 ]
