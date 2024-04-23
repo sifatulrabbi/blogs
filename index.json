@@ -8,15 +8,5 @@
     "tags": ["Go/Golang", "Github", "Caching"],
     "create_at": "2024-04-23T02:26:55.204Z",
     "updated_at": "2024-04-23T02:26:55.204Z"
-  },
-  {
-    "id": "mock-article-on-tree-plantation",
-    "url": "/articles/mock-article-on-tree-plantation/index.md",
-    "title": "Mock article on tree plantation",
-    "summary": "Leverage the power of GitHub to create your own blogging platform! This guide will show you how to effortlessly build a personal blogging site using GitHub as your content management system. Embark on this exciting journey today and unleash the potential of your online presence.",
-    "category": "Mock",
-    "tags": ["Mock", "Testing"],
-    "create_at": "2024-04-23T02:26:55.204Z",
-    "updated_at": "2024-04-23T02:26:55.204Z"
   }
 ]
