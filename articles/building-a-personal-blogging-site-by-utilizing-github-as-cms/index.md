@@ -1,3 +1,1 @@
-# Building a personal blogging site by utilizing Github as the CMS
-
-By Sifatul Rabbi
+<img src="https://raw.githubusercontent.com/sifatulrabbi/blogs/main/articles/building-a-personal-blogging-site-by-utilizing-github-as-cms/banner.jpg" height="650px" width="380px" style="background-size: cover" alt="Building a personal blogging site by utilizing Github as the CMS" />

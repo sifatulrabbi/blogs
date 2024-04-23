@@ -5,8 +5,8 @@
     "title": "Building a personal blogging site by utilizing Github as the CMS",
     "summary": "Taking advantage of the Github's RAW mode. In this case, using this as the CMS and building my blogging site in a few days.",
     "category": "Back End",
-    "tags": ["Go/Golang", "Github", "Caching"],
-    "create_at": "2024-04-23T00:00:00Z",
+    "tags": ["Go/Golang", "Github", "Caching", "Back End"],
+    "created_at": "2024-04-23T00:00:00Z",
     "updated_at": "2024-04-23T15:04:00Z"
   }
 ]
