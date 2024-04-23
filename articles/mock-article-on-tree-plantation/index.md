@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sifatulrabbi/blogs/main/articles/mock-article-on-tree-plantation/banner.jpg" alt="banner image" height="650px" width="400px" />
+<img src="https://raw.githubusercontent.com/sifatulrabbi/blogs/main/articles/mock-article-on-tree-plantation/banner.jpg" alt="banner image" height="380px" width="650px" style="background-size: cover;" />
 
 In an era marked by rampant environmental degradation, the act of planting trees emerges as a beacon of hope, a potent antidote to the perilous challenges that threaten our planet. Trees, the silent guardians of our ecosystems, play a pivotal role in maintaining the delicate balance of nature. It is imperative that we embark on a concerted effort to increase global tree cover, for the well-being of both humanity and the planet we call home.
 
