@@ -8,12 +8,6 @@ Forests act as nature's lungs, absorbing vast quantities of carbon dioxide and r
 
 Forests act as nature's lungs, absorbing vast quantities of carbon dioxide and releasing life-sustaining oxygen. By increasing tree cover, we can effectively combat climate change and mitigate the devastating effects of global warming. Trees also play a crucial role in regulating the water cycle, reducing soil erosion, and providing habitats for a diverse array of flora and fauna.
 
-Forests act as nature's lungs, absorbing vast quantities of carbon dioxide and releasing life-sustaining oxygen. By increasing tree cover, we can effectively combat climate change and mitigate the devastating effects of global warming. Trees also play a crucial role in regulating the water cycle, reducing soil erosion, and providing habitats for a diverse array of flora and fauna.
-
-### Economic Benefits: A Green Investment
-
-Far from being a mere expense, tree plantation represents a sound investment with tangible economic returns. Trees provide valuable resources such as timber, paper, and fuel, while also supporting industries such as tourism and recreation. Moreover, forests contribute to soil fertility, increasing agricultural productivity and ensuring food security.
-
 ### Code blocks
 
 ```go
@@ -47,7 +41,13 @@ func main() {
 ### Simple inline code items
 
 This is an `inline` code `item`. With **strong text** and *italic text*. And the following is a quote.
-> This is a Quote component.
+> This is a Quote component. Forests act as nature's lungs, absorbing vast quantities of carbon dioxide and releasing life-sustaining oxygen. By increasing tree cover, we can effectively combat climate change and mitigate the devastating effects of global warming. Trees also play a crucial role in regulating the water cycle, reducing soil erosion, and providing habitats for a diverse array of flora and fauna.
+
+### Economic Benefits: A Green Investment
+
+Far from being a mere expense, tree plantation represents a sound investment with tangible economic returns. Trees provide valuable resources such as timber, paper, and fuel, while also supporting industries such as tourism and recreation. Moreover, forests contribute to soil fertility, increasing agricultural productivity and ensuring food security. Also some link to another site https://sifatulrabbi.com.
+
+And some embedded link [Github profile](https://github.com/sifatulrabbi) for better UI/UX.
 
 ### Health Benefits: A Prescription for Well-being
 
